@@ -1,7 +1,9 @@
 # CODECRAFT_CS_01
 𝐂𝐢𝐩𝐡𝐞𝐫-𝐕𝐒
 it is a simple python program that can encrypt and decrypt text using the Caesar Cipher algorithm.
+
 (internship task/project)
+
 How It Works:
 1. Encrypt Mode: Each alphabetic character is shifted forward by the given number (shift)
 2. Decrypt Mode: The shift is reversed by negating the shift value.
